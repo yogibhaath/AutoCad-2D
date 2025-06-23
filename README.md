@@ -1,1 +1,2 @@
 # AutoCad-2D
+This project involves the creation of a detailed 2D house plan using AutoCAD. It includes a comprehensive layout of residential spaces, including rooms, doors, windows, and essential utilities, while ensuring compliance with standard architectural principles. The design focuses on optimizing space utilization and functionality, with attention to proper dimensions, scalability, and user-friendly aesthetics. The project showcases my proficiency in AutoCAD, along with my understanding of architectural design and drafting techniques.
